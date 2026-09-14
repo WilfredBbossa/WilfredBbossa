@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Aspiring AI/data engineer | CS @ Wilfrid Laurier | Built AML analytics tools @ PwC | Python, SQL, Java, Node.js
+Aspiring AI/data engineer | Built AML analytics tools @ PwC | Python, SQL, Java, Node.js
 
 ### 🛠️ Tech Stack
 
