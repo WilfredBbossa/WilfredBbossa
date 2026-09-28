@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-BSc Graduate with a strong foundation in **Computer Science** and specialized training from **AfricaHackOn Academy (Cohort 5)**. Experience spanning consulting at **PwC** and backend development, focusing on building secure, scalable software and deploying threat-aware risk analytics.
+BSc Graduate with a strong foundation in **Computer Science** and specialized training from **AfricaHackOn Academy**. Experience spanning consulting at **PwC** and backend development, focusing on building secure, scalable software and deploying threat-aware risk analytics.
 
 - 🛡️ **Cybersecurity Focus:** Governance, Risk & Compliance (GRC), Threat Intelligence, Incident Response, DevSecOps, Identity & Access Management (IAM), Zero Trust Architecture.
 - 💻 **Software & Data Engineering:** Python, Java (Spring Boot), Node.js, SQL, REST APIs, and Anomaly Detection Systems.
